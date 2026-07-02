@@ -58,6 +58,3 @@ The single biggest improvement came from **feature engineering** — extracting 
 
 Python, AutoGluon, Pandas, Matplotlib, Seaborn, Scikit-learn, XGBoost, Kaggle API
 
-## Notes
-
-This was a guided project completed as part of the AWS Machine Learning Fundamentals Nanodegree. The iterative submission structure (baseline → features → HPO) and final report are required deliverables of the nanodegree curriculum.
